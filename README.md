@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pk-unix
+- 👋 Hi, I’m PK
 - 👀 I’m interested in creating my own Stuffs
-- 🌱 I’m currently learning Dev Ops
+- 🌱 Enthusiast to Learn....
 - 💞️ I’m looking to collaborate on various tools and technologies in the unix world
 - 📫 How to reach me ... May be soon.....
 
